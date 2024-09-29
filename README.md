@@ -1,3 +1,3 @@
 # LAPTRINHPYTHONNANGCAO
-# Trịnh Minh Quân - 17A1
+# 31_Trịnh Minh Quân_17A1
 #MSV 23174600056
