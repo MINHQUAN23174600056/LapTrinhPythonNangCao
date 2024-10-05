@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="1">
+        <name>Nguyen Van A</name>
+        <birth_year>2005</birth_year>
+        <class>K17</class>
+        <gender>Nam</gender>
+    </student>
+    <student id="2">
+        <name>Tran Huong T</name>
+        <birth_year>2005</birth_year>
+        <class>K17</class>
+        <gender>Nữ</gender>
+    </student>
+    <student id="3">
+        <name>Nguyen Van V</name>
+        <birth_year>2006</birth_year>
+        <class>K18</class>
+        <gender>Nam</gender>
+    </student>
+</students>
